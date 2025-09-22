@@ -795,7 +795,7 @@ msgstr "ลงลายเซ็นข้อความ"
 
 #: src/seedsigner/models/settings_definition.py
 msgid "Show privacy warnings"
-msgstr "แสดงคำเตือนความเป็นส่วนตัว"
+msgstr "แจ้งเตือนส่วนตัว"
 
 #: src/seedsigner/models/settings_definition.py
 msgid "Show dire warnings"
