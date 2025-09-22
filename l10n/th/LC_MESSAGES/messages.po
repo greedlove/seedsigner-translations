@@ -111,7 +111,7 @@ msgstr "ผู้รับที่ {}"
 
 #: src/seedsigner/gui/screens/psbt_screens.py
 msgid "fee"
-msgstr "ค่าบริการ"
+msgstr "ค่าธรรมเนียม"
 
 #. Technical term, should probably NOT be translated in most languages
 #: src/seedsigner/gui/screens/psbt_screens.py
