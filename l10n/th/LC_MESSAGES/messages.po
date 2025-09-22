@@ -1249,7 +1249,7 @@ msgstr "SeedQR คือกุญแจส่วนตัวของคุณ !
 #: src/seedsigner/views/seed_views.py
 msgid ""
 "Never photograph or scan it into a device that connects to the internet."
-msgstr "ห้ามถ่ายรูปหรือสแกนลงในอุปกรณ์ที่ออนไลน์"
+msgstr "ห้ามถ่ายรูปในอุปกรณ์ออนไลน์"
 
 #: src/seedsigner/views/seed_views.py
 msgid "Confirm SeedQR"
