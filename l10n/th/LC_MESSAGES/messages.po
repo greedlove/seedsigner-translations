@@ -1332,7 +1332,7 @@ msgstr "เปิดใช้งานการตั้งค่าคงอย
 
 #: src/seedsigner/views/settings_views.py
 msgid "Settings updated in temporary memory"
-msgstr "อัปเดตการตั้งค่าในหน่วยความจำชั่วคราวแล้ว"
+msgstr "อัปเดตการตั้งค่าชั่วคราวแล้ว"
 
 #: src/seedsigner/views/tools_views.py
 msgid "New seed"
